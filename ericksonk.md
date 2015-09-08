@@ -1,6 +1,6 @@
 # [Kristine Erickson](https://github.com/ericksonk)
 
-![Kristine Erickson](http://i.imgur.com/gi8YYlc.jpg?1)
+![Kristine Erickson](https://avatars0.githubusercontent.com/u/14016182?v=3&s=460)
 
 | category | value |
 |-----------|-------|
