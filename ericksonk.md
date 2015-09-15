@@ -25,7 +25,7 @@
 
 | category | value |
 |----------|-------|
-| _zodiac_ | --- |
+| _zodiac_ | taurus |
 | _spirit animal_ | --- |
 | _celeb birthday_ | --- |
 
